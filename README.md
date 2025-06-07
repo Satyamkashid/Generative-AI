@@ -66,4 +66,4 @@ Major libraries used:
 - `numpy`, `sklearn`, `pydantic` (for data and validation)
 - `dotenv` (for environment variable management)
 
-See `requirements.txt` for the full list.
+See `requirements.txt` for the full list
