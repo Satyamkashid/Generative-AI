@@ -67,7 +67,3 @@ Major libraries used:
 - `dotenv` (for environment variable management)
 
 See `requirements.txt` for the full list.
-
-## License
-
-[MIT](LICENSE) (or your preferred license)
