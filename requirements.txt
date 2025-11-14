@@ -1,0 +1,15 @@
+dotenv
+langchain
+langchain_anthropic
+langchain_community
+langchain_core
+langchain_experimental
+langchain_google_genai
+langchain_huggingface
+langchain_openai
+langchain
+numpy
+pydantic
+scikit-learn
+streamlit
+typing
